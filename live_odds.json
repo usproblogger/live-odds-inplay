@@ -1,26 +1,26 @@
 [
   {
-    "sport": "soccer",
+    "sport": "tennis",
     "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-10T04:30:00Z",
-    "awayTeam": "Sri Lanka",
-    "homeTeam": "Pakistan",
-    "awayOdds": "+1300",
-    "homeOdds": "+285",
-    "favTeam": "Pakistan",
-    "leadML": 285,
-    "gap": 18
+    "gameDate": "2026-11-10T07:32:30.632318+00:00",
+    "awayTeam": "Adrian Mannarino",
+    "homeTeam": "Alexander Shevchenko",
+    "awayOdds": "-140",
+    "homeOdds": "+115",
+    "favTeam": "Adrian Mannarino",
+    "leadML": -140,
+    "gap": 15
   },
   {
     "sport": "basketball",
     "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-10T05:10:41Z",
-    "awayTeam": "Portland Pilots",
-    "homeTeam": "Hawai'i Rainbow Warriors",
-    "awayOdds": "-1667",
-    "homeOdds": "+900",
-    "favTeam": "Portland Pilots",
-    "leadML": -1667,
-    "gap": 18
+    "gameDate": "2026-11-10T07:17:30.632318+00:00",
+    "awayTeam": "Golden State Warriors",
+    "homeTeam": "Cleveland Cavaliers",
+    "awayOdds": "+185",
+    "homeOdds": "-220",
+    "favTeam": "Cleveland Cavaliers",
+    "leadML": -220,
+    "gap": 22
   }
 ]
