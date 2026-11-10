@@ -1,0 +1,122 @@
+[
+  {
+    "sport": "basketball",
+    "status": "\ud83d\udd34 LIVE IN-PLAY",
+    "gameDate": "2026-11-10T02:33:43Z",
+    "awayTeam": "Eastern Washington Eagles",
+    "homeTeam": "Oregon St Beavers",
+    "awayOdds": "+75000",
+    "homeOdds": "-110",
+    "favTeam": "Oregon St Beavers",
+    "leadML": -110,
+    "gap": 18
+  },
+  {
+    "sport": "hockey",
+    "status": "\ud83d\udd34 LIVE IN-PLAY",
+    "gameDate": "2026-11-10T02:45:00Z",
+    "awayTeam": "Philadelphia Flyers",
+    "homeTeam": "Vancouver Canucks",
+    "awayOdds": "-10000",
+    "homeOdds": "+1500",
+    "favTeam": "Philadelphia Flyers",
+    "leadML": -10000,
+    "gap": 18
+  },
+  {
+    "sport": "basketball",
+    "status": "\ud83d\udd34 LIVE IN-PLAY",
+    "gameDate": "2026-11-10T03:00:00Z",
+    "awayTeam": "Miss Valley St Delta Devils",
+    "homeTeam": "Washington Huskies",
+    "awayOdds": "+20000",
+    "homeOdds": "-110",
+    "favTeam": "Washington Huskies",
+    "leadML": -110,
+    "gap": 18
+  },
+  {
+    "sport": "basketball",
+    "status": "\ud83d\udd34 LIVE IN-PLAY",
+    "gameDate": "2026-11-10T03:01:34Z",
+    "awayTeam": "Rice Owls",
+    "homeTeam": "Stanford Cardinal",
+    "awayOdds": "+75000",
+    "homeOdds": "-110",
+    "favTeam": "Stanford Cardinal",
+    "leadML": -110,
+    "gap": 18
+  },
+  {
+    "sport": "basketball",
+    "status": "\ud83d\udd34 LIVE IN-PLAY",
+    "gameDate": "2026-11-10T03:05:27Z",
+    "awayTeam": "Oregon Ducks",
+    "homeTeam": "Grand Canyon Antelopes",
+    "awayOdds": "+420",
+    "homeOdds": "-667",
+    "favTeam": "Grand Canyon Antelopes",
+    "leadML": -667,
+    "gap": 18
+  },
+  {
+    "sport": "hockey",
+    "status": "\ud83d\udd34 LIVE IN-PLAY",
+    "gameDate": "2026-11-10T03:10:00Z",
+    "awayTeam": "New York Islanders",
+    "homeTeam": "San Jose Sharks",
+    "awayOdds": "-130",
+    "homeOdds": "+102",
+    "favTeam": "New York Islanders",
+    "leadML": -130,
+    "gap": 18
+  },
+  {
+    "sport": "basketball",
+    "status": "\ud83d\udd34 LIVE IN-PLAY",
+    "gameDate": "2026-11-10T03:12:00Z",
+    "awayTeam": "New Orleans Pelicans",
+    "homeTeam": "Golden State Warriors",
+    "awayOdds": "+50000",
+    "homeOdds": "-110",
+    "favTeam": "Golden State Warriors",
+    "leadML": -110,
+    "gap": 18
+  },
+  {
+    "sport": "soccer",
+    "status": "\ud83d\udd34 LIVE IN-PLAY",
+    "gameDate": "2026-11-10T04:30:00Z",
+    "awayTeam": "Sri Lanka",
+    "homeTeam": "Pakistan",
+    "awayOdds": "+650",
+    "homeOdds": "+220",
+    "favTeam": "Pakistan",
+    "leadML": 220,
+    "gap": 18
+  },
+  {
+    "sport": "basketball",
+    "status": "\u23f3 Starting in 7m",
+    "gameDate": "2026-11-10T04:59:00Z",
+    "awayTeam": "Portland Pilots",
+    "homeTeam": "Hawai'i Rainbow Warriors",
+    "awayOdds": "+252",
+    "homeOdds": "-312",
+    "favTeam": "Hawai'i Rainbow Warriors",
+    "leadML": -312,
+    "gap": 18
+  },
+  {
+    "sport": "soccer",
+    "status": "\u23f3 Starting in 8m",
+    "gameDate": "2026-11-10T05:00:00Z",
+    "awayTeam": "India",
+    "homeTeam": "New Zealand",
+    "awayOdds": "-185",
+    "homeOdds": "+142",
+    "favTeam": "India",
+    "leadML": -185,
+    "gap": 18
+  }
+]
