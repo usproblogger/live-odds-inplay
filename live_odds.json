@@ -1,19 +1,19 @@
 [
   {
     "sport": "hockey",
-    "status": "\u23f3 Starting in 34m",
+    "status": "\ud83d\udd34 LIVE IN-PLAY",
     "gameDate": "2026-11-10T15:35:00Z",
     "awayTeam": "Hartford Wolf Pack",
     "homeTeam": "Springfield Thunderbirds",
-    "awayOdds": "+140",
-    "homeOdds": "+143",
+    "awayOdds": "-147",
+    "homeOdds": "+320",
     "favTeam": "Hartford Wolf Pack",
-    "leadML": 140,
+    "leadML": -147,
     "gap": 18
   },
   {
     "sport": "basketball",
-    "status": "\u23f3 Starting in 59m",
+    "status": "\u23f3 Starting in 11m",
     "gameDate": "2026-11-10T16:00:00Z",
     "awayTeam": "Youngstown St Penguins",
     "homeTeam": "Toledo Rockets",
@@ -21,6 +21,18 @@
     "homeOdds": "-263",
     "favTeam": "Toledo Rockets",
     "leadML": -263,
+    "gap": 18
+  },
+  {
+    "sport": "hockey",
+    "status": "\u23f3 Starting in 41m",
+    "gameDate": "2026-11-10T16:30:00Z",
+    "awayTeam": "Iowa Wild",
+    "homeTeam": "Milwaukee Admirals",
+    "awayOdds": "+170",
+    "homeOdds": "+114",
+    "favTeam": "Milwaukee Admirals",
+    "leadML": 114,
     "gap": 18
   }
 ]
