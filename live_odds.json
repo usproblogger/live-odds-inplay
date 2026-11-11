@@ -1,14 +1,98 @@
 [
   {
     "sport": "hockey",
-    "status": "\u23f3 Starting in 58m",
-    "gameDate": "2026-11-11T16:00:00Z",
+    "status": "\u23f3 Starting in 3m",
+    "gameDate": "2026-11-11T16:04:00Z",
     "awayTeam": "Rockford IceHogs",
     "homeTeam": "Grand Rapids Griffins",
-    "awayOdds": "+235",
-    "homeOdds": "-116",
+    "awayOdds": "+225",
+    "homeOdds": "-114",
     "favTeam": "Grand Rapids Griffins",
-    "leadML": -116,
+    "leadML": -114,
+    "gap": 18
+  },
+  {
+    "sport": "basketball",
+    "status": "\u23f3 Starting in 29m",
+    "gameDate": "2026-11-11T16:30:00Z",
+    "awayTeam": "Fairleigh Dickinson Knights",
+    "homeTeam": "East Texas A&M Lions",
+    "awayOdds": "+520",
+    "homeOdds": "-769",
+    "favTeam": "East Texas A&M Lions",
+    "leadML": -769,
+    "gap": 18
+  },
+  {
+    "sport": "hockey",
+    "status": "\u23f3 Starting in 29m",
+    "gameDate": "2026-11-11T16:30:00Z",
+    "awayTeam": "Jokerit",
+    "homeTeam": "HIFK",
+    "awayOdds": "+114",
+    "homeOdds": "-167",
+    "favTeam": "HIFK",
+    "leadML": -167,
+    "gap": 18
+  },
+  {
+    "sport": "hockey",
+    "status": "\u23f3 Starting in 29m",
+    "gameDate": "2026-11-11T16:30:00Z",
+    "awayTeam": "Pelicans",
+    "homeTeam": "Ilves",
+    "awayOdds": "+170",
+    "homeOdds": "-270",
+    "favTeam": "Ilves",
+    "leadML": -270,
+    "gap": 18
+  },
+  {
+    "sport": "hockey",
+    "status": "\u23f3 Starting in 29m",
+    "gameDate": "2026-11-11T16:30:00Z",
+    "awayTeam": "K\u00e4rp\u00e4t",
+    "homeTeam": "JYP",
+    "awayOdds": "+137",
+    "homeOdds": "-164",
+    "favTeam": "JYP",
+    "leadML": -164,
+    "gap": 18
+  },
+  {
+    "sport": "hockey",
+    "status": "\u23f3 Starting in 29m",
+    "gameDate": "2026-11-11T16:30:00Z",
+    "awayTeam": "\u00c4ss\u00e4t",
+    "homeTeam": "Jukurit",
+    "awayOdds": "-109",
+    "homeOdds": "-109",
+    "favTeam": "Jukurit",
+    "leadML": -109,
+    "gap": 18
+  },
+  {
+    "sport": "hockey",
+    "status": "\u23f3 Starting in 29m",
+    "gameDate": "2026-11-11T16:30:00Z",
+    "awayTeam": "KalPa",
+    "homeTeam": "Lukko",
+    "awayOdds": "+142",
+    "homeOdds": "-192",
+    "favTeam": "Lukko",
+    "leadML": -192,
+    "gap": 18
+  },
+  {
+    "sport": "hockey",
+    "status": "\u23f3 Starting in 29m",
+    "gameDate": "2026-11-11T16:30:00Z",
+    "awayTeam": "Sport",
+    "homeTeam": "Kiekko-Espoo",
+    "awayOdds": "+194",
+    "homeOdds": "-233",
+    "favTeam": "Kiekko-Espoo",
+    "leadML": -233,
     "gap": 18
   }
 ]
