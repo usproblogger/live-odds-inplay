@@ -1,26 +1,14 @@
 [
   {
-    "sport": "tennis",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-11T13:33:48.054362+00:00",
-    "awayTeam": "Adrian Mannarino",
-    "homeTeam": "Alexander Shevchenko",
-    "awayOdds": "-140",
-    "homeOdds": "+115",
-    "favTeam": "Adrian Mannarino",
-    "leadML": -140,
-    "gap": 15
-  },
-  {
-    "sport": "basketball",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-11T13:18:48.054362+00:00",
-    "awayTeam": "Golden State Warriors",
-    "homeTeam": "Cleveland Cavaliers",
-    "awayOdds": "+185",
-    "homeOdds": "-220",
-    "favTeam": "Cleveland Cavaliers",
-    "leadML": -220,
-    "gap": 22
+    "sport": "hockey",
+    "status": "\u23f3 Starting in 58m",
+    "gameDate": "2026-11-11T16:00:00Z",
+    "awayTeam": "Rockford IceHogs",
+    "homeTeam": "Grand Rapids Griffins",
+    "awayOdds": "+235",
+    "homeOdds": "-116",
+    "favTeam": "Grand Rapids Griffins",
+    "leadML": -116,
+    "gap": 18
   }
 ]
