@@ -2,49 +2,13 @@
   {
     "sport": "basketball",
     "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-11T03:00:00Z",
-    "awayTeam": "Montana Grizzlies",
-    "homeTeam": "San Francisco Dons",
-    "awayOdds": "+30000",
-    "homeOdds": "-110",
-    "favTeam": "San Francisco Dons",
-    "leadML": -110,
-    "gap": 18
-  },
-  {
-    "sport": "hockey",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-11T03:09:05Z",
-    "awayTeam": "Nashville Predators",
-    "homeTeam": "Los Angeles Kings",
-    "awayOdds": "-10000",
-    "homeOdds": "+2200",
-    "favTeam": "Nashville Predators",
-    "leadML": -10000,
-    "gap": 18
-  },
-  {
-    "sport": "basketball",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-11T03:11:00Z",
-    "awayTeam": "Orlando Magic",
-    "homeTeam": "Sacramento Kings",
-    "awayOdds": "-10000",
-    "homeOdds": "+1400",
-    "favTeam": "Orlando Magic",
-    "leadML": -10000,
-    "gap": 18
-  },
-  {
-    "sport": "basketball",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
     "gameDate": "2026-11-11T04:14:00Z",
     "awayTeam": "Oklahoma City Thunder",
     "homeTeam": "Portland Trail Blazers",
-    "awayOdds": "-135",
-    "homeOdds": "+106",
-    "favTeam": "Oklahoma City Thunder",
-    "leadML": -135,
+    "awayOdds": "+350",
+    "homeOdds": "-500",
+    "favTeam": "Portland Trail Blazers",
+    "leadML": -500,
     "gap": 18
   },
   {
@@ -53,10 +17,10 @@
     "gameDate": "2026-11-11T04:30:00Z",
     "awayTeam": "Sri Lanka",
     "homeTeam": "Pakistan",
-    "awayOdds": "+1150",
-    "homeOdds": "+600",
+    "awayOdds": "+1300",
+    "homeOdds": "+700",
     "favTeam": "Pakistan",
-    "leadML": 600,
+    "leadML": 700,
     "gap": 18
   }
 ]
