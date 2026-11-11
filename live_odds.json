@@ -1,26 +1,26 @@
 [
   {
-    "sport": "basketball",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-11T04:14:00Z",
-    "awayTeam": "Oklahoma City Thunder",
-    "homeTeam": "Portland Trail Blazers",
-    "awayOdds": "+350",
-    "homeOdds": "-500",
-    "favTeam": "Portland Trail Blazers",
-    "leadML": -500,
-    "gap": 18
-  },
-  {
     "sport": "soccer",
     "status": "\ud83d\udd34 LIVE IN-PLAY",
     "gameDate": "2026-11-11T04:30:00Z",
     "awayTeam": "Sri Lanka",
     "homeTeam": "Pakistan",
-    "awayOdds": "+1300",
+    "awayOdds": "+1400",
     "homeOdds": "+700",
     "favTeam": "Pakistan",
     "leadML": 700,
+    "gap": 18
+  },
+  {
+    "sport": "basketball",
+    "status": "\u23f3 Starting in 47m",
+    "gameDate": "2026-11-11T08:36:00Z",
+    "awayTeam": "Illawarra Hawks",
+    "homeTeam": "S.E. Melbourne Phoenix",
+    "awayOdds": "+244",
+    "homeOdds": "-312",
+    "favTeam": "S.E. Melbourne Phoenix",
+    "leadML": -312,
     "gap": 18
   }
 ]
