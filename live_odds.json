@@ -1,14 +1,14 @@
 [
   {
-    "sport": "soccer",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-12T04:20:00Z",
-    "awayTeam": "Sri Lanka",
-    "homeTeam": "Pakistan",
-    "awayOdds": "+1000",
-    "homeOdds": "+4900",
-    "favTeam": "Sri Lanka",
-    "leadML": 1000,
+    "sport": "basketball",
+    "status": "\u23f3 Starting in 20m",
+    "gameDate": "2026-11-12T08:36:00Z",
+    "awayTeam": "Melbourne United",
+    "homeTeam": "Adelaide 36ers",
+    "awayOdds": "-159",
+    "homeOdds": "+128",
+    "favTeam": "Melbourne United",
+    "leadML": -159,
     "gap": 18
   }
 ]
