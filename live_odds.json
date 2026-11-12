@@ -1,14 +1,26 @@
 [
   {
-    "sport": "soccer",
-    "status": "\u23f3 Starting in 13m",
-    "gameDate": "2026-11-12T14:10:00Z",
-    "awayTeam": "Jacinta Austin",
-    "homeTeam": "Aleksandra Savicheva",
-    "awayOdds": "-238",
-    "homeOdds": "+200",
-    "favTeam": "Jacinta Austin",
-    "leadML": -238,
-    "gap": 18
+    "sport": "tennis",
+    "status": "\ud83d\udd34 LIVE IN-PLAY",
+    "gameDate": "2026-11-12T14:15:48.228130+00:00",
+    "awayTeam": "Adrian Mannarino",
+    "homeTeam": "Alexander Shevchenko",
+    "awayOdds": "-140",
+    "homeOdds": "+115",
+    "favTeam": "Adrian Mannarino",
+    "leadML": -140,
+    "gap": 15
+  },
+  {
+    "sport": "basketball",
+    "status": "\ud83d\udd34 LIVE IN-PLAY",
+    "gameDate": "2026-11-12T14:00:48.228130+00:00",
+    "awayTeam": "Golden State Warriors",
+    "homeTeam": "Cleveland Cavaliers",
+    "awayOdds": "+185",
+    "homeOdds": "-220",
+    "favTeam": "Cleveland Cavaliers",
+    "leadML": -220,
+    "gap": 22
   }
 ]
