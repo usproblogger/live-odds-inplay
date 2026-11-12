@@ -1,26 +1,26 @@
 [
   {
-    "sport": "tennis",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-12T14:15:48.228130+00:00",
-    "awayTeam": "Adrian Mannarino",
-    "homeTeam": "Alexander Shevchenko",
-    "awayOdds": "-140",
-    "homeOdds": "+115",
-    "favTeam": "Adrian Mannarino",
-    "leadML": -140,
-    "gap": 15
+    "sport": "hockey",
+    "status": "\u23f3 Starting in 37m",
+    "gameDate": "2026-11-12T16:30:00Z",
+    "awayTeam": "JoKP",
+    "homeTeam": "TUTO Hockey",
+    "awayOdds": "+111",
+    "homeOdds": "-149",
+    "favTeam": "TUTO Hockey",
+    "leadML": -149,
+    "gap": 18
   },
   {
-    "sport": "basketball",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-12T14:00:48.228130+00:00",
-    "awayTeam": "Golden State Warriors",
-    "homeTeam": "Cleveland Cavaliers",
-    "awayOdds": "+185",
-    "homeOdds": "-220",
-    "favTeam": "Cleveland Cavaliers",
-    "leadML": -220,
-    "gap": 22
+    "sport": "hockey",
+    "status": "\u23f3 Starting in 37m",
+    "gameDate": "2026-11-12T16:30:00Z",
+    "awayTeam": "Ketter\u00e4",
+    "homeTeam": "RoKi",
+    "awayOdds": "+146",
+    "homeOdds": "-200",
+    "favTeam": "RoKi",
+    "leadML": -200,
+    "gap": 18
   }
 ]
