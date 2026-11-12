@@ -1,62 +1,14 @@
 [
   {
-    "sport": "hockey",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-12T03:08:22Z",
-    "awayTeam": "Pittsburgh Penguins",
-    "homeTeam": "San Jose Sharks",
-    "awayOdds": "-110",
-    "homeOdds": "-120",
-    "favTeam": "San Jose Sharks",
-    "leadML": -120,
-    "gap": 18
-  },
-  {
-    "sport": "hockey",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-12T03:10:52Z",
-    "awayTeam": "Nashville Predators",
-    "homeTeam": "Anaheim Ducks",
-    "awayOdds": "-110",
-    "homeOdds": "+3000",
-    "favTeam": "Nashville Predators",
-    "leadML": -110,
-    "gap": 18
-  },
-  {
-    "sport": "basketball",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-12T03:13:00Z",
-    "awayTeam": "Oklahoma City Thunder",
-    "homeTeam": "Portland Trail Blazers",
-    "awayOdds": "+100",
-    "homeOdds": "-125",
-    "favTeam": "Portland Trail Blazers",
-    "leadML": -125,
-    "gap": 18
-  },
-  {
-    "sport": "basketball",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-12T04:01:55Z",
-    "awayTeam": "USC Trojans",
-    "homeTeam": "California Golden Bears",
-    "awayOdds": "-500",
-    "homeOdds": "+340",
-    "favTeam": "USC Trojans",
-    "leadML": -500,
-    "gap": 18
-  },
-  {
     "sport": "soccer",
     "status": "\ud83d\udd34 LIVE IN-PLAY",
     "gameDate": "2026-11-12T04:20:00Z",
     "awayTeam": "Sri Lanka",
     "homeTeam": "Pakistan",
-    "awayOdds": "+860",
-    "homeOdds": "+5900",
+    "awayOdds": "+1000",
+    "homeOdds": "+4900",
     "favTeam": "Sri Lanka",
-    "leadML": 860,
+    "leadML": 1000,
     "gap": 18
   }
 ]
