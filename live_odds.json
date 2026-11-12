@@ -5,10 +5,10 @@
     "gameDate": "2026-11-12T10:43:00Z",
     "awayTeam": "Tasmania JackJumpers",
     "homeTeam": "Perth Wildcats",
-    "awayOdds": "+120",
-    "homeOdds": "-154",
+    "awayOdds": "+460",
+    "homeOdds": "-10000",
     "favTeam": "Perth Wildcats",
-    "leadML": -154,
+    "leadML": -10000,
     "gap": 18
   }
 ]
