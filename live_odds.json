@@ -5,10 +5,22 @@
     "gameDate": "2026-11-12T08:30:00Z",
     "awayTeam": "Melbourne United",
     "homeTeam": "Adelaide 36ers",
-    "awayOdds": "+1600",
+    "awayOdds": "+2000",
     "homeOdds": "-10000",
     "favTeam": "Adelaide 36ers",
     "leadML": -10000,
+    "gap": 18
+  },
+  {
+    "sport": "basketball",
+    "status": "\u23f3 Starting in 3m",
+    "gameDate": "2026-11-12T10:36:00Z",
+    "awayTeam": "Tasmania JackJumpers",
+    "homeTeam": "Perth Wildcats",
+    "awayOdds": "+124",
+    "homeOdds": "-154",
+    "favTeam": "Perth Wildcats",
+    "leadML": -154,
     "gap": 18
   }
 ]
