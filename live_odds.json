@@ -1,62 +1,14 @@
 [
   {
-    "sport": "soccer",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-12T18:00:00Z",
-    "awayTeam": "Levante",
-    "homeTeam": "Taranc\u00f3n",
-    "awayOdds": "+1050",
-    "homeOdds": "+4500",
-    "favTeam": "Levante",
-    "leadML": 1050,
-    "gap": 18
-  },
-  {
-    "sport": "soccer",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-12T18:03:00Z",
-    "awayTeam": "Real Betis",
-    "homeTeam": "CDA Navalcarnero",
-    "awayOdds": "-5000",
-    "homeOdds": "+19900",
-    "favTeam": "Real Betis",
-    "leadML": -5000,
-    "gap": 18
-  },
-  {
-    "sport": "basketball",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-12T19:06:00Z",
-    "awayTeam": "Hapoel Tel Aviv",
-    "homeTeam": "Maccabi Tel Aviv",
-    "awayOdds": "-154",
-    "homeOdds": "+110",
-    "favTeam": "Hapoel Tel Aviv",
-    "leadML": -154,
-    "gap": 18
-  },
-  {
-    "sport": "basketball",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-12T19:16:00Z",
-    "awayTeam": "Dubai Basketball",
-    "homeTeam": "Olympiacos",
-    "awayOdds": "+2000",
-    "homeOdds": "-110",
-    "favTeam": "Olympiacos",
-    "leadML": -110,
-    "gap": 18
-  },
-  {
     "sport": "basketball",
     "status": "\ud83d\udd34 LIVE IN-PLAY",
     "gameDate": "2026-11-12T19:30:00Z",
     "awayTeam": "FC Bayern M\u00fcnchen",
     "homeTeam": "Valencia Basket",
-    "awayOdds": "+550",
-    "homeOdds": "-1250",
+    "awayOdds": "+75000",
+    "homeOdds": "-110",
     "favTeam": "Valencia Basket",
-    "leadML": -1250,
+    "leadML": -110,
     "gap": 18
   },
   {
@@ -65,10 +17,22 @@
     "gameDate": "2026-11-12T19:30:00Z",
     "awayTeam": "\u017dalgiris",
     "homeTeam": "Pallacanestro Olimpia Milano",
-    "awayOdds": "-370",
-    "homeOdds": "+240",
+    "awayOdds": "-110",
+    "homeOdds": "+2800",
     "favTeam": "\u017dalgiris",
-    "leadML": -370,
+    "leadML": -110,
+    "gap": 18
+  },
+  {
+    "sport": "soccer",
+    "status": "\ud83d\udd34 LIVE IN-PLAY",
+    "gameDate": "2026-11-12T19:45:00Z",
+    "awayTeam": "Finland",
+    "homeTeam": "Albania",
+    "awayOdds": "+29900",
+    "homeOdds": "-10000",
+    "favTeam": "Albania",
+    "leadML": -10000,
     "gap": 18
   },
   {
@@ -78,7 +42,7 @@
     "awayTeam": "Belarus",
     "homeTeam": "San Marino",
     "awayOdds": "-110",
-    "homeOdds": "+4000",
+    "homeOdds": "+2500",
     "favTeam": "Belarus",
     "leadML": -110,
     "gap": 18
@@ -89,10 +53,10 @@
     "gameDate": "2026-11-12T19:45:00Z",
     "awayTeam": "Croatia",
     "homeTeam": "England",
-    "awayOdds": "+1300",
-    "homeOdds": "-833",
+    "awayOdds": "+5000",
+    "homeOdds": "-2000",
     "favTeam": "England",
-    "leadML": -833,
+    "leadML": -2000,
     "gap": 18
   },
   {
@@ -101,10 +65,10 @@
     "gameDate": "2026-11-12T19:45:00Z",
     "awayTeam": "Spain",
     "homeTeam": "Czech Republic",
-    "awayOdds": "-2500",
-    "homeOdds": "+2800",
+    "awayOdds": "-110",
+    "homeOdds": "+12500",
     "favTeam": "Spain",
-    "leadML": -2500,
+    "leadML": -110,
     "gap": 18
   },
   {
@@ -113,22 +77,10 @@
     "gameDate": "2026-11-12T19:45:00Z",
     "awayTeam": "France",
     "homeTeam": "Italy",
-    "awayOdds": "-122",
-    "homeOdds": "+370",
-    "favTeam": "France",
-    "leadML": -122,
-    "gap": 18
-  },
-  {
-    "sport": "soccer",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-12T19:46:00Z",
-    "awayTeam": "Finland",
-    "homeTeam": "Albania",
-    "awayOdds": "+1000",
-    "homeOdds": "-345",
-    "favTeam": "Albania",
-    "leadML": -345,
+    "awayOdds": "+6000",
+    "homeOdds": "-110",
+    "favTeam": "Italy",
+    "leadML": -110,
     "gap": 18
   },
   {
@@ -137,10 +89,10 @@
     "gameDate": "2026-11-12T19:46:00Z",
     "awayTeam": "Latvia",
     "homeTeam": "Montenegro",
-    "awayOdds": "+600",
-    "homeOdds": "-167",
+    "awayOdds": "+650",
+    "homeOdds": "+500",
     "favTeam": "Montenegro",
-    "leadML": -167,
+    "leadML": 500,
     "gap": 18
   },
   {
@@ -149,10 +101,10 @@
     "gameDate": "2026-11-12T20:00:00Z",
     "awayTeam": "Austria Wien",
     "homeTeam": "Benfica",
-    "awayOdds": "+850",
-    "homeOdds": "-476",
+    "awayOdds": "+400",
+    "homeOdds": "+165",
     "favTeam": "Benfica",
-    "leadML": -476,
+    "leadML": 165,
     "gap": 18
   },
   {
@@ -161,10 +113,10 @@
     "gameDate": "2026-11-12T20:00:00Z",
     "awayTeam": "Coco Gauff",
     "homeTeam": "Marta Kostyuk",
-    "awayOdds": "-833",
-    "homeOdds": "+460",
+    "awayOdds": "-400",
+    "homeOdds": "+270",
     "favTeam": "Coco Gauff",
-    "leadML": -833,
+    "leadML": -400,
     "gap": 18
   },
   {
@@ -173,10 +125,10 @@
     "gameDate": "2026-11-12T20:00:00Z",
     "awayTeam": "KK Crvena zvezda",
     "homeTeam": "Real Madrid",
-    "awayOdds": "+550",
-    "homeOdds": "-1250",
+    "awayOdds": "+1300",
+    "homeOdds": "-10000",
     "favTeam": "Real Madrid",
-    "leadML": -1250,
+    "leadML": -10000,
     "gap": 18
   },
   {
@@ -185,22 +137,46 @@
     "gameDate": "2026-11-12T20:04:40Z",
     "awayTeam": "UMKC Kangaroos",
     "homeTeam": "George Mason Patriots",
-    "awayOdds": "+630",
-    "homeOdds": "-1250",
+    "awayOdds": "+4000",
+    "homeOdds": "-110",
     "favTeam": "George Mason Patriots",
-    "leadML": -1250,
+    "leadML": -110,
+    "gap": 18
+  },
+  {
+    "sport": "basketball",
+    "status": "\u23f3 Starting in 0m",
+    "gameDate": "2026-11-12T21:30:00Z",
+    "awayTeam": "Holy Cross Crusaders",
+    "homeTeam": "Brown Bears",
+    "awayOdds": "-106",
+    "homeOdds": "-127",
+    "favTeam": "Brown Bears",
+    "leadML": -127,
     "gap": 18
   },
   {
     "sport": "tennis",
-    "status": "\u23f3 Starting in 47m",
-    "gameDate": "2026-11-12T21:30:00Z",
+    "status": "\u23f3 Starting in 25m",
+    "gameDate": "2026-11-12T21:55:00Z",
     "awayTeam": "Linda Noskova",
     "homeTeam": "Jessica Pegula",
     "awayOdds": "-133",
     "homeOdds": "+110",
     "favTeam": "Linda Noskova",
     "leadML": -133,
+    "gap": 18
+  },
+  {
+    "sport": "soccer",
+    "status": "\u23f3 Starting in 30m",
+    "gameDate": "2026-11-12T22:00:00Z",
+    "awayTeam": "Operario PR",
+    "homeTeam": "Ponte Preta",
+    "awayOdds": "-159",
+    "homeOdds": "+390",
+    "favTeam": "Operario PR",
+    "leadML": -159,
     "gap": 18
   }
 ]
