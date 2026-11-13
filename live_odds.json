@@ -1,14 +1,26 @@
 [
   {
+    "sport": "tennis",
+    "status": "\ud83d\udd34 LIVE IN-PLAY",
+    "gameDate": "2026-11-13T10:52:42.854811+00:00",
+    "awayTeam": "Adrian Mannarino",
+    "homeTeam": "Alexander Shevchenko",
+    "awayOdds": "-140",
+    "homeOdds": "+115",
+    "favTeam": "Adrian Mannarino",
+    "leadML": -140,
+    "gap": 15
+  },
+  {
     "sport": "basketball",
     "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-13T08:50:00Z",
-    "awayTeam": "Sydney Kings",
-    "homeTeam": "Cairns Taipans",
-    "awayOdds": "+160",
-    "homeOdds": "-208",
-    "favTeam": "Cairns Taipans",
-    "leadML": -208,
-    "gap": 18
+    "gameDate": "2026-11-13T10:37:42.854811+00:00",
+    "awayTeam": "Golden State Warriors",
+    "homeTeam": "Cleveland Cavaliers",
+    "awayOdds": "+185",
+    "homeOdds": "-220",
+    "favTeam": "Cleveland Cavaliers",
+    "leadML": -220,
+    "gap": 22
   }
 ]
