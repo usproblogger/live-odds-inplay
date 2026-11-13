@@ -5,34 +5,22 @@
     "gameDate": "2026-11-13T06:00:00Z",
     "awayTeam": "Zimbabwe",
     "homeTeam": "Afghanistan",
-    "awayOdds": "+164",
-    "homeOdds": "+440",
+    "awayOdds": "+198",
+    "homeOdds": "+480",
     "favTeam": "Zimbabwe",
-    "leadML": 164,
+    "leadML": 198,
     "gap": 18
   },
   {
     "sport": "basketball",
     "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-13T06:36:00Z",
-    "awayTeam": "Brisbane Bullets",
-    "homeTeam": "New Zealand Breakers",
-    "awayOdds": "-111",
-    "homeOdds": "-111",
-    "favTeam": "New Zealand Breakers",
-    "leadML": -111,
-    "gap": 18
-  },
-  {
-    "sport": "basketball",
-    "status": "\u23f3 Starting in 9m",
-    "gameDate": "2026-11-13T08:30:00Z",
+    "gameDate": "2026-11-13T08:50:00Z",
     "awayTeam": "Sydney Kings",
     "homeTeam": "Cairns Taipans",
-    "awayOdds": "-400",
-    "homeOdds": "+300",
+    "awayOdds": "-10000",
+    "homeOdds": "+470",
     "favTeam": "Sydney Kings",
-    "leadML": -400,
+    "leadML": -10000,
     "gap": 18
   }
 ]
