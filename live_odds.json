@@ -1,98 +1,14 @@
 [
   {
-    "sport": "football",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-13T01:00:00Z",
-    "awayTeam": "Memphis Tigers",
-    "homeTeam": "South Florida Bulls",
-    "awayOdds": "-196",
-    "homeOdds": "+154",
-    "favTeam": "Memphis Tigers",
-    "leadML": -196,
-    "gap": 18
-  },
-  {
-    "sport": "basketball",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-13T01:01:48Z",
-    "awayTeam": "West Florida Argonauts",
-    "homeTeam": "Alabama A&M Bulldogs",
-    "awayOdds": "+188",
-    "homeOdds": "-250",
-    "favTeam": "Alabama A&M Bulldogs",
-    "leadML": -250,
-    "gap": 18
-  },
-  {
-    "sport": "hockey",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-13T01:09:00Z",
-    "awayTeam": "Buffalo Sabres",
-    "homeTeam": "Chicago Blackhawks",
-    "awayOdds": "-120",
-    "homeOdds": "-106",
-    "favTeam": "Buffalo Sabres",
-    "leadML": -120,
-    "gap": 18
-  },
-  {
-    "sport": "hockey",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-13T01:10:00Z",
-    "awayTeam": "Winnipeg Jets",
-    "homeTeam": "Dallas Stars",
-    "awayOdds": "-110",
-    "homeOdds": "+4000",
-    "favTeam": "Winnipeg Jets",
-    "leadML": -110,
-    "gap": 18
-  },
-  {
-    "sport": "football",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-13T01:15:39Z",
-    "awayTeam": "Washington Commanders",
-    "homeTeam": "New York Giants",
-    "awayOdds": "+128",
-    "homeOdds": "-169",
-    "favTeam": "New York Giants",
-    "leadML": -169,
-    "gap": 18
-  },
-  {
     "sport": "soccer",
     "status": "\ud83d\udd34 LIVE IN-PLAY",
     "gameDate": "2026-11-13T02:00:00Z",
     "awayTeam": "India",
     "homeTeam": "New Zealand",
-    "awayOdds": "+107",
-    "homeOdds": "-143",
+    "awayOdds": "-115",
+    "homeOdds": "-115",
     "favTeam": "New Zealand",
-    "leadML": -143,
-    "gap": 18
-  },
-  {
-    "sport": "basketball",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-13T02:01:11Z",
-    "awayTeam": "Montana St Bobcats",
-    "homeTeam": "BYU Cougars",
-    "awayOdds": "+20000",
-    "homeOdds": "-110",
-    "favTeam": "BYU Cougars",
-    "leadML": -110,
-    "gap": 18
-  },
-  {
-    "sport": "basketball",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-13T02:04:27Z",
-    "awayTeam": "New Mexico St Aggies",
-    "homeTeam": "UTEP Miners",
-    "awayOdds": "+320",
-    "homeOdds": "-455",
-    "favTeam": "UTEP Miners",
-    "leadML": -455,
+    "leadML": -115,
     "gap": 18
   },
   {
@@ -101,10 +17,10 @@
     "gameDate": "2026-11-13T02:05:00Z",
     "awayTeam": "Louisiana Ragin Cajuns",
     "homeTeam": "UL Monroe Warhawks",
-    "awayOdds": "-333",
-    "homeOdds": "+250",
+    "awayOdds": "-10000",
+    "homeOdds": "+1300",
     "favTeam": "Louisiana Ragin Cajuns",
-    "leadML": -333,
+    "leadML": -10000,
     "gap": 18
   },
   {
@@ -122,25 +38,13 @@
   {
     "sport": "basketball",
     "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-13T02:11:00Z",
-    "awayTeam": "Charlotte Hornets",
-    "homeTeam": "Phoenix Suns",
-    "awayOdds": "-149",
-    "homeOdds": "+118",
-    "favTeam": "Charlotte Hornets",
-    "leadML": -149,
-    "gap": 18
-  },
-  {
-    "sport": "basketball",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
     "gameDate": "2026-11-13T03:00:00Z",
     "awayTeam": "UC Riverside Highlanders",
     "homeTeam": "San Jos\u00e9 St Spartans",
-    "awayOdds": "+162",
-    "homeOdds": "-227",
+    "awayOdds": "+300",
+    "homeOdds": "-455",
     "favTeam": "San Jos\u00e9 St Spartans",
-    "leadML": -227,
+    "leadML": -455,
     "gap": 18
   },
   {
@@ -149,10 +53,10 @@
     "gameDate": "2026-11-13T03:05:00Z",
     "awayTeam": "Calgary Wranglers",
     "homeTeam": "Henderson Silver Knights",
-    "awayOdds": "+155",
-    "homeOdds": "+165",
+    "awayOdds": "-179",
+    "homeOdds": "+700",
     "favTeam": "Calgary Wranglers",
-    "leadML": 155,
+    "leadML": -179,
     "gap": 18
   },
   {
@@ -161,10 +65,10 @@
     "gameDate": "2026-11-13T03:08:00Z",
     "awayTeam": "San Jose Barracuda",
     "homeTeam": "Coachella Valley Firebirds",
-    "awayOdds": "+850",
-    "homeOdds": "-400",
+    "awayOdds": "+575",
+    "homeOdds": "-156",
     "favTeam": "Coachella Valley Firebirds",
-    "leadML": -400,
+    "leadML": -156,
     "gap": 18
   },
   {
@@ -173,10 +77,10 @@
     "gameDate": "2026-11-13T03:10:00Z",
     "awayTeam": "New York Islanders",
     "homeTeam": "Los Angeles Kings",
-    "awayOdds": "-233",
-    "homeOdds": "+180",
+    "awayOdds": "-345",
+    "homeOdds": "+255",
     "favTeam": "New York Islanders",
-    "leadML": -233,
+    "leadML": -345,
     "gap": 18
   },
   {
@@ -185,10 +89,10 @@
     "gameDate": "2026-11-13T03:30:00Z",
     "awayTeam": "England",
     "homeTeam": "Australia",
-    "awayOdds": "-108",
-    "homeOdds": "-122",
+    "awayOdds": "+775",
+    "homeOdds": "-2000",
     "favTeam": "Australia",
-    "leadML": -122,
+    "leadML": -2000,
     "gap": 18
   },
   {
@@ -201,6 +105,18 @@
     "homeOdds": "-10000",
     "favTeam": "UCLA Bruins",
     "leadML": -10000,
+    "gap": 18
+  },
+  {
+    "sport": "soccer",
+    "status": "\ud83d\udd34 LIVE IN-PLAY",
+    "gameDate": "2026-11-13T04:30:00Z",
+    "awayTeam": "Sri Lanka",
+    "homeTeam": "Pakistan",
+    "awayOdds": "+700",
+    "homeOdds": "+15000",
+    "favTeam": "Sri Lanka",
+    "leadML": 700,
     "gap": 18
   }
 ]
