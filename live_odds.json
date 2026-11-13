@@ -1,26 +1,14 @@
 [
   {
-    "sport": "soccer",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-13T06:00:00Z",
-    "awayTeam": "Zimbabwe",
-    "homeTeam": "Afghanistan",
-    "awayOdds": "+198",
-    "homeOdds": "+480",
-    "favTeam": "Zimbabwe",
-    "leadML": 198,
-    "gap": 18
-  },
-  {
     "sport": "basketball",
     "status": "\ud83d\udd34 LIVE IN-PLAY",
     "gameDate": "2026-11-13T08:50:00Z",
     "awayTeam": "Sydney Kings",
     "homeTeam": "Cairns Taipans",
-    "awayOdds": "-10000",
-    "homeOdds": "+470",
-    "favTeam": "Sydney Kings",
-    "leadML": -10000,
+    "awayOdds": "+160",
+    "homeOdds": "-208",
+    "favTeam": "Cairns Taipans",
+    "leadML": -208,
     "gap": 18
   }
 ]
