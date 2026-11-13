@@ -1,26 +1,14 @@
 [
   {
-    "sport": "hockey",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-13T03:10:00Z",
-    "awayTeam": "New York Islanders",
-    "homeTeam": "Los Angeles Kings",
-    "awayOdds": "-110",
-    "homeOdds": "+4000",
-    "favTeam": "New York Islanders",
-    "leadML": -110,
-    "gap": 18
-  },
-  {
     "sport": "soccer",
     "status": "\ud83d\udd34 LIVE IN-PLAY",
     "gameDate": "2026-11-13T03:30:00Z",
     "awayTeam": "England",
     "homeTeam": "Australia",
-    "awayOdds": "+900",
-    "homeOdds": "-3333",
+    "awayOdds": "+1200",
+    "homeOdds": "-10000",
     "favTeam": "Australia",
-    "leadML": -3333,
+    "leadML": -10000,
     "gap": 18
   },
   {
@@ -29,34 +17,34 @@
     "gameDate": "2026-11-13T04:30:00Z",
     "awayTeam": "Sri Lanka",
     "homeTeam": "Pakistan",
-    "awayOdds": "+1400",
+    "awayOdds": "+1000",
     "homeOdds": "+15000",
     "favTeam": "Sri Lanka",
-    "leadML": 1400,
+    "leadML": 1000,
     "gap": 18
   },
   {
     "sport": "soccer",
-    "status": "\u23f3 Starting in 6m",
+    "status": "\ud83d\udd34 LIVE IN-PLAY",
     "gameDate": "2026-11-13T06:00:00Z",
     "awayTeam": "Zimbabwe",
     "homeTeam": "Afghanistan",
-    "awayOdds": "+184",
-    "homeOdds": "+178",
-    "favTeam": "Afghanistan",
-    "leadML": 178,
+    "awayOdds": "+168",
+    "homeOdds": "+290",
+    "favTeam": "Zimbabwe",
+    "leadML": 168,
     "gap": 18
   },
   {
     "sport": "basketball",
-    "status": "\u23f3 Starting in 36m",
-    "gameDate": "2026-11-13T06:30:00Z",
+    "status": "\ud83d\udd34 LIVE IN-PLAY",
+    "gameDate": "2026-11-13T06:36:00Z",
     "awayTeam": "Brisbane Bullets",
     "homeTeam": "New Zealand Breakers",
-    "awayOdds": "+106",
-    "homeOdds": "-130",
-    "favTeam": "New Zealand Breakers",
-    "leadML": -130,
+    "awayOdds": "-208",
+    "homeOdds": "+160",
+    "favTeam": "Brisbane Bullets",
+    "leadML": -208,
     "gap": 18
   }
 ]
