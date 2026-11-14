@@ -1,38 +1,38 @@
 [
   {
-    "sport": "football",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-14T03:25:37Z",
-    "awayTeam": "Houston Cougars",
-    "homeTeam": "Colorado Buffaloes",
-    "awayOdds": "+650",
-    "homeOdds": "-1250",
-    "favTeam": "Colorado Buffaloes",
-    "leadML": -1250,
-    "gap": 18
-  },
-  {
-    "sport": "soccer",
-    "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-14T05:05:00Z",
-    "awayTeam": "Sydney Swans",
-    "homeTeam": "Geelong Cats",
-    "awayOdds": "-217",
-    "homeOdds": "+160",
-    "favTeam": "Sydney Swans",
-    "leadML": -217,
-    "gap": 18
-  },
-  {
     "sport": "soccer",
     "status": "\ud83d\udd34 LIVE IN-PLAY",
     "gameDate": "2026-11-14T06:00:00Z",
     "awayTeam": "Zimbabwe",
     "homeTeam": "Afghanistan",
-    "awayOdds": "+265",
-    "homeOdds": "+280",
-    "favTeam": "Zimbabwe",
-    "leadML": 265,
+    "awayOdds": "+260",
+    "homeOdds": "+210",
+    "favTeam": "Afghanistan",
+    "leadML": 210,
+    "gap": 18
+  },
+  {
+    "sport": "soccer",
+    "status": "\u23f3 Starting in 30m",
+    "gameDate": "2026-11-14T08:15:00Z",
+    "awayTeam": "Hawthorn Hawks",
+    "homeTeam": "Carlton Blues",
+    "awayOdds": "+145",
+    "homeOdds": "-189",
+    "favTeam": "Carlton Blues",
+    "leadML": -189,
+    "gap": 18
+  },
+  {
+    "sport": "basketball",
+    "status": "\u23f3 Starting in 51m",
+    "gameDate": "2026-11-14T08:36:00Z",
+    "awayTeam": "S.E. Melbourne Phoenix",
+    "homeTeam": "Melbourne United",
+    "awayOdds": "+194",
+    "homeOdds": "-250",
+    "favTeam": "Melbourne United",
+    "leadML": -250,
     "gap": 18
   }
 ]
