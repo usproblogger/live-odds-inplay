@@ -5,10 +5,10 @@
     "gameDate": "2026-11-14T14:00:00Z",
     "awayTeam": "Israel",
     "homeTeam": "Kosovo",
-    "awayOdds": "+475",
-    "homeOdds": "+105",
-    "favTeam": "Kosovo",
-    "leadML": 105,
+    "awayOdds": "+1500",
+    "homeOdds": "+2000",
+    "favTeam": "Israel",
+    "leadML": 1500,
     "gap": 18
   },
   {
@@ -17,10 +17,10 @@
     "gameDate": "2026-11-14T14:00:00Z",
     "awayTeam": "Nybro Vikings IF",
     "homeTeam": "Vimmerby HC",
-    "awayOdds": "+1650",
-    "homeOdds": "-1111",
+    "awayOdds": "+1075",
+    "homeOdds": "-294",
     "favTeam": "Vimmerby HC",
-    "leadML": -1111,
+    "leadML": -294,
     "gap": 18
   },
   {
@@ -29,10 +29,10 @@
     "gameDate": "2026-11-14T14:15:00Z",
     "awayTeam": "Fr\u00f6lunda HC",
     "homeTeam": "R\u00f6gle BK",
-    "awayOdds": "-110",
-    "homeOdds": "-133",
-    "favTeam": "R\u00f6gle BK",
-    "leadML": -133,
+    "awayOdds": "-345",
+    "homeOdds": "+240",
+    "favTeam": "Fr\u00f6lunda HC",
+    "leadML": -345,
     "gap": 18
   },
   {
@@ -41,10 +41,10 @@
     "gameDate": "2026-11-14T14:15:00Z",
     "awayTeam": "Timr\u00e5 IK",
     "homeTeam": "HV71",
-    "awayOdds": "-588",
-    "homeOdds": "+412",
-    "favTeam": "Timr\u00e5 IK",
-    "leadML": -588,
+    "awayOdds": "+124",
+    "homeOdds": "-154",
+    "favTeam": "HV71",
+    "leadML": -154,
     "gap": 18
   },
   {
@@ -53,10 +53,10 @@
     "gameDate": "2026-11-14T14:15:00Z",
     "awayTeam": "V\u00e4xj\u00f6 Lakers",
     "homeTeam": "Malm\u00f6 Redhawks",
-    "awayOdds": "-250",
-    "homeOdds": "+180",
-    "favTeam": "V\u00e4xj\u00f6 Lakers",
-    "leadML": -250,
+    "awayOdds": "+105",
+    "homeOdds": "-143",
+    "favTeam": "Malm\u00f6 Redhawks",
+    "leadML": -143,
     "gap": 18
   },
   {
@@ -65,10 +65,10 @@
     "gameDate": "2026-11-14T14:55:40Z",
     "awayTeam": "THW Kiel",
     "homeTeam": "F\u00fcchse Berlin",
-    "awayOdds": "+250",
-    "homeOdds": "-222",
-    "favTeam": "F\u00fcchse Berlin",
-    "leadML": -222,
+    "awayOdds": "-125",
+    "homeOdds": "+160",
+    "favTeam": "THW Kiel",
+    "leadML": -125,
     "gap": 18
   },
   {
@@ -77,10 +77,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "Accrington Stanley",
     "homeTeam": "Port Vale",
-    "awayOdds": "+278",
-    "homeOdds": "+100",
+    "awayOdds": "+2800",
+    "homeOdds": "-2500",
     "favTeam": "Port Vale",
-    "leadML": 100,
+    "leadML": -2500,
     "gap": 18
   },
   {
@@ -89,10 +89,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "Barnsley",
     "homeTeam": "Wigan Athletic",
-    "awayOdds": "+223",
-    "homeOdds": "+116",
+    "awayOdds": "+206",
+    "homeOdds": "+139",
     "favTeam": "Wigan Athletic",
-    "leadML": 116,
+    "leadML": 139,
     "gap": 18
   },
   {
@@ -101,10 +101,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "Blackpool",
     "homeTeam": "Wimbledon",
-    "awayOdds": "+202",
-    "homeOdds": "+128",
+    "awayOdds": "+585",
+    "homeOdds": "-182",
     "favTeam": "Wimbledon",
-    "leadML": 128,
+    "leadML": -182,
     "gap": 18
   },
   {
@@ -113,10 +113,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "Chesterfield FC",
     "homeTeam": "Bristol Rovers",
-    "awayOdds": "+134",
-    "homeOdds": "+178",
+    "awayOdds": "-244",
+    "homeOdds": "+764",
     "favTeam": "Chesterfield FC",
-    "leadML": 134,
+    "leadML": -244,
     "gap": 18
   },
   {
@@ -125,10 +125,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "Burton Albion",
     "homeTeam": "Milton Keynes Dons",
-    "awayOdds": "+1553",
-    "homeOdds": "-625",
+    "awayOdds": "+4000",
+    "homeOdds": "-10000",
     "favTeam": "Milton Keynes Dons",
-    "leadML": -625,
+    "leadML": -10000,
     "gap": 18
   },
   {
@@ -137,10 +137,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "Clermont",
     "homeTeam": "Vend\u00e9e Fontenay",
-    "awayOdds": "-556",
-    "homeOdds": "+1300",
+    "awayOdds": "-10000",
+    "homeOdds": "+10900",
     "favTeam": "Clermont",
-    "leadML": -556,
+    "leadML": -10000,
     "gap": 18
   },
   {
@@ -149,10 +149,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "Gillingham",
     "homeTeam": "Colchester United",
-    "awayOdds": "+319",
-    "homeOdds": "-116",
+    "awayOdds": "+304",
+    "homeOdds": "+141",
     "favTeam": "Colchester United",
-    "leadML": -116,
+    "leadML": 141,
     "gap": 18
   },
   {
@@ -161,10 +161,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "Newport County",
     "homeTeam": "Crewe Alexandra",
-    "awayOdds": "+242",
-    "homeOdds": "+114",
-    "favTeam": "Crewe Alexandra",
-    "leadML": 114,
+    "awayOdds": "-1000",
+    "homeOdds": "+2379",
+    "favTeam": "Newport County",
+    "leadML": -1000,
     "gap": 18
   },
   {
@@ -173,10 +173,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "Grimsby Town",
     "homeTeam": "Swindon Town",
-    "awayOdds": "-105",
-    "homeOdds": "+248",
+    "awayOdds": "-10000",
+    "homeOdds": "+2400",
     "favTeam": "Grimsby Town",
-    "leadML": -105,
+    "leadML": -10000,
     "gap": 18
   },
   {
@@ -185,10 +185,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "HPK",
     "homeTeam": "Sport",
-    "awayOdds": "+127",
-    "homeOdds": "-156",
+    "awayOdds": "+120",
+    "homeOdds": "-161",
     "favTeam": "Sport",
-    "leadML": -156,
+    "leadML": -161,
     "gap": 18
   },
   {
@@ -198,7 +198,7 @@
     "awayTeam": "Hermes",
     "homeTeam": "Pyry",
     "awayOdds": "-120",
-    "homeOdds": "-110",
+    "homeOdds": "-111",
     "favTeam": "Hermes",
     "leadML": -120,
     "gap": 18
@@ -209,10 +209,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "Pelicans",
     "homeTeam": "JYP",
-    "awayOdds": "+205",
-    "homeOdds": "-270",
+    "awayOdds": "+225",
+    "homeOdds": "-303",
     "favTeam": "JYP",
-    "leadML": -270,
+    "leadML": -303,
     "gap": 18
   },
   {
@@ -221,10 +221,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "Jokerit",
     "homeTeam": "\u00c4ss\u00e4t",
-    "awayOdds": "+102",
-    "homeOdds": "-123",
+    "awayOdds": "+290",
+    "homeOdds": "-435",
     "favTeam": "\u00c4ss\u00e4t",
-    "leadML": -123,
+    "leadML": -435,
     "gap": 18
   },
   {
@@ -233,10 +233,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "KooKoo",
     "homeTeam": "Jukurit",
-    "awayOdds": "+116",
-    "homeOdds": "-143",
+    "awayOdds": "+259",
+    "homeOdds": "-385",
     "favTeam": "Jukurit",
-    "leadML": -143,
+    "leadML": -385,
     "gap": 18
   },
   {
@@ -245,10 +245,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "Kiekko-Vantaa",
     "homeTeam": "KeuPa HT",
-    "awayOdds": "-130",
-    "homeOdds": "-102",
+    "awayOdds": "-294",
+    "homeOdds": "+207",
     "favTeam": "Kiekko-Vantaa",
-    "leadML": -130,
+    "leadML": -294,
     "gap": 18
   },
   {
@@ -257,10 +257,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "Tappara",
     "homeTeam": "K\u00e4rp\u00e4t",
-    "awayOdds": "+112",
-    "homeOdds": "-135",
+    "awayOdds": "+104",
+    "homeOdds": "-139",
     "favTeam": "K\u00e4rp\u00e4t",
-    "leadML": -135,
+    "leadML": -139,
     "gap": 18
   },
   {
@@ -269,10 +269,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "Northampton Town",
     "homeTeam": "Salford City",
-    "awayOdds": "+191",
-    "homeOdds": "+139",
-    "favTeam": "Salford City",
-    "leadML": 139,
+    "awayOdds": "-108",
+    "homeOdds": "+367",
+    "favTeam": "Northampton Town",
+    "leadML": -108,
     "gap": 18
   },
   {
@@ -281,10 +281,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "Oldham Athletic",
     "homeTeam": "Shrewsbury Town",
-    "awayOdds": "+156",
-    "homeOdds": "+175",
-    "favTeam": "Oldham Athletic",
-    "leadML": 156,
+    "awayOdds": "+280",
+    "homeOdds": "+190",
+    "favTeam": "Shrewsbury Town",
+    "leadML": 190,
     "gap": 18
   },
   {
@@ -293,10 +293,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "Plymouth Argyle",
     "homeTeam": "Sheffield Wednesday",
-    "awayOdds": "+312",
-    "homeOdds": "-122",
+    "awayOdds": "+241",
+    "homeOdds": "+154",
     "favTeam": "Sheffield Wednesday",
-    "leadML": -122,
+    "leadML": 154,
     "gap": 18
   },
   {
@@ -305,10 +305,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "Reading",
     "homeTeam": "Stockport County FC",
-    "awayOdds": "+374",
-    "homeOdds": "-152",
+    "awayOdds": "+1429",
+    "homeOdds": "-455",
     "favTeam": "Stockport County FC",
-    "leadML": -152,
+    "leadML": -455,
     "gap": 18
   },
   {
@@ -317,10 +317,10 @@
     "gameDate": "2026-11-14T15:00:00Z",
     "awayTeam": "York City",
     "homeTeam": "Rochdale",
-    "awayOdds": "-114",
-    "homeOdds": "+290",
+    "awayOdds": "+108",
+    "homeOdds": "+338",
     "favTeam": "York City",
-    "leadML": -114,
+    "leadML": 108,
     "gap": 18
   },
   {
@@ -329,51 +329,39 @@
     "gameDate": "2026-11-14T15:01:00Z",
     "awayTeam": "IPK",
     "homeTeam": "TUTO Hockey",
-    "awayOdds": "+160",
-    "homeOdds": "-227",
+    "awayOdds": "+800",
+    "homeOdds": "-2000",
     "favTeam": "TUTO Hockey",
-    "leadML": -227,
+    "leadML": -2000,
     "gap": 18
   },
   {
     "sport": "soccer",
     "status": "\ud83d\udd34 LIVE IN-PLAY",
-    "gameDate": "2026-11-14T15:10:00Z",
-    "awayTeam": "Rhys McKee",
-    "homeTeam": "Ernesto Rodriguez",
-    "awayOdds": "+157",
-    "homeOdds": "-179",
-    "favTeam": "Ernesto Rodriguez",
-    "leadML": -179,
-    "gap": 18
-  },
-  {
-    "sport": "soccer",
-    "status": "\u23f3 Starting in 2m",
     "gameDate": "2026-11-14T15:15:00Z",
     "awayTeam": "Sporting Gij\u00f3n",
     "homeTeam": "Real Sociedad B",
-    "awayOdds": "+210",
-    "homeOdds": "+123",
-    "favTeam": "Real Sociedad B",
-    "leadML": 123,
+    "awayOdds": "-147",
+    "homeOdds": "+400",
+    "favTeam": "Sporting Gij\u00f3n",
+    "leadML": -147,
     "gap": 18
   },
   {
     "sport": "soccer",
-    "status": "\u23f3 Starting in 27m",
+    "status": "\ud83d\udd34 LIVE IN-PLAY",
     "gameDate": "2026-11-14T15:40:00Z",
     "awayTeam": "Maxwell Djantou Nana",
     "homeTeam": "Denis Goltsov",
-    "awayOdds": "+292",
-    "homeOdds": "-370",
+    "awayOdds": "+320",
+    "homeOdds": "-400",
     "favTeam": "Denis Goltsov",
-    "leadML": -370,
+    "leadML": -400,
     "gap": 18
   },
   {
     "sport": "soccer",
-    "status": "\u23f3 Starting in 47m",
+    "status": "\u23f3 Starting in 6m",
     "gameDate": "2026-11-14T16:00:00Z",
     "awayTeam": "Annecy FC",
     "homeTeam": "FCO Firminy",
@@ -385,7 +373,7 @@
   },
   {
     "sport": "soccer",
-    "status": "\u23f3 Starting in 47m",
+    "status": "\u23f3 Starting in 6m",
     "gameDate": "2026-11-14T16:00:00Z",
     "awayTeam": "Thaon",
     "homeTeam": "IC Croix",
@@ -397,19 +385,19 @@
   },
   {
     "sport": "soccer",
-    "status": "\u23f3 Starting in 57m",
+    "status": "\u23f3 Starting in 16m",
     "gameDate": "2026-11-14T16:10:00Z",
     "awayTeam": "Adam Borics",
     "homeTeam": "Khasan Magomedsharipov",
-    "awayOdds": "+211",
-    "homeOdds": "-256",
+    "awayOdds": "+207",
+    "homeOdds": "-250",
     "favTeam": "Khasan Magomedsharipov",
-    "leadML": -256,
+    "leadML": -250,
     "gap": 18
   },
   {
     "sport": "soccer",
-    "status": "\u23f3 Starting in 57m",
+    "status": "\u23f3 Starting in 16m",
     "gameDate": "2026-11-14T16:10:00Z",
     "awayTeam": "Kamil Bednarek",
     "homeTeam": "Bruno Surace",
@@ -417,6 +405,18 @@
     "homeOdds": "-250",
     "favTeam": "Bruno Surace",
     "leadML": -250,
+    "gap": 18
+  },
+  {
+    "sport": "soccer",
+    "status": "\u23f3 Starting in 46m",
+    "gameDate": "2026-11-14T16:40:00Z",
+    "awayTeam": "Akhmed Magomedov",
+    "homeTeam": "Alexei Pergande",
+    "awayOdds": "+170",
+    "homeOdds": "-196",
+    "favTeam": "Alexei Pergande",
+    "leadML": -196,
     "gap": 18
   }
 ]
